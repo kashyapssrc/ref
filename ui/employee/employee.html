@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <title>Employee details</title>
+    <link rel="stylesheet" href="styles\lsp.css" />
+  </head>
+  <body onload="getPerson()">
+    <aside id="selection">
+      <div id="personBlock">
+        <button id="toPerson" class="details" onClick="getPerson()" >Person</button>
+      </div>
+      <div id="addressBlock">
+        <button id="toAddress" class="details" onClick="getAddress()">Address</a>
+      </div>
+    </aside>
+    <div id="personTable" class="personDetails">
+      <p id="table"></p>
+      <div id="add">
+        <button id="addPerson" ></button>
+      </div>
+    </div>
+    <div id="personInfo" class="personDetails">
+      <form id="Info" class="personDetails">
+      </form>
+      <button id="submitPerson" ></button>
+      <button id="resetChanges"></button>
+    </div>
+    <script src="scripts/person.js" ></script>
+    <script src="scripts/address.js" ></script>
+  </body>
+</html>

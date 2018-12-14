@@ -1,0 +1,51 @@
+[ {
+  "id" : 1,
+  "street" : "kk nagar",
+  "city" : "chennai",
+  "postalCode" : 600028
+}, {
+  "id" : 2,
+  "street" : "Tnagar",
+  "city" : "chennai",
+  "postalCode" : 600075
+}, {
+  "id" : 3,
+  "street" : "nagar",
+  "city" : "chennai",
+  "postalCode" : 600070
+}, {
+  "id" : 4,
+  "street" : "nagar",
+  "city" : "chennai",
+  "postalCode" : 600070
+}, {
+  "id" : 5,
+  "street" : "Tnagar",
+  "city" : "chennai",
+  "postalCode" : 600075
+}, {
+  "id" : 6,
+  "street" : "taramani",
+  "city" : "chennai",
+  "postalCode" : 600010
+}, {
+  "id" : 7,
+  "street" : "taramani",
+  "city" : "chennai",
+  "postalCode" : 600010
+}, {
+  "id" : 8,
+  "street" : "perambur",
+  "city" : "chennai",
+  "postalCode" : 600070
+}, {
+  "id" : 9,
+  "street" : "food street",
+  "city" : "chennai",
+  "postalCode" : 600075
+}, {
+  "id" : 10,
+  "street" : "nungambakkam",
+  "city" : "salem",
+  "postalCode" : 600022
+} ]
